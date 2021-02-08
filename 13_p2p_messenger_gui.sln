@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_p2p_messenger_gui", "13_p2p_messenger_gui.csproj", "{2E99A76E-CFB6-458A-9904-3205A0A7B877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E99A76E-CFB6-458A-9904-3205A0A7B877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E99A76E-CFB6-458A-9904-3205A0A7B877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E99A76E-CFB6-458A-9904-3205A0A7B877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E99A76E-CFB6-458A-9904-3205A0A7B877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F27F573C-9583-454F-9297-A45339CD6C3B}
+	EndGlobalSection
+EndGlobal
